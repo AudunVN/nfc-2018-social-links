@@ -11,7 +11,7 @@
     {
       "Name": "Facebook",
       "Link": "https://www.facebook.com/NordicFuzzCon",
-      "Position": 2,
+      "Position": 3,
       "Category": "General",
       "Group": "Other links",
       "Type": "Facebook"
@@ -19,7 +19,7 @@
     {
       "Name": "Telegram Channel List",
       "Link": "https://forum.nordicfuzzcon.org/posts/t2094-NordicFuzzCon-Telegram-groups",
-      "Position": 3,
+      "Position": 4,
       "Category": "General",
       "Group": "Telegram links",
       "Type": "Forums"
@@ -27,7 +27,7 @@
     {
       "Name": "Telegram Announcements",
       "Link": "https://telegram.me/NordicFuzzCon",
-      "Position": 4,
+      "Position": 5,
       "Category": "General",
       "Group": "Telegram links",
       "Type": "Telegram"
@@ -35,7 +35,7 @@
     {
       "Name": "FurAffinity",
       "Link": "https://www.furaffinity.net/user/nordicfuzzcon",
-      "Position": 5,
+      "Position": 6,
       "Category": "General",
       "Group": "Web links",
       "Type": "FurAffinity"
@@ -43,7 +43,7 @@
     {
       "Name": "YouTube",
       "Link": "https://www.youtube.com/channel/UCTBZFgM6OMi5cCoug8dkh7A",
-      "Position": 6,
+      "Position": 7,
       "Category": "General",
       "Group": "Web links",
       "Type": "YouTube"
