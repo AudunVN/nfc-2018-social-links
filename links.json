@@ -4,7 +4,7 @@
       "Name": "Twitter",
       "Link": "https://twitter.com/nordicfuzzcon",
       "Position": 1,
-      "Category": "",
+      "Category": "General",
       "Group": "Other links",
       "Type": "Twitter"
     },
@@ -61,7 +61,7 @@
       "Link": "https://twitter.com/livefuzz",
       "Position": 2,
       "Category": "At convention",
-      "Group": "Information",
+      "Group": "Other links",
       "Type": "Twitter"
     },
     {
@@ -69,7 +69,7 @@
       "Link": "https://t.me/joinchat/B8vZMQ3wjVp-jAZC6QDkUg",
       "Position": 5,
       "Category": "General",
-      "Group": "Social",
+      "Group": "Telegram links",
       "Type": "Telegram"
     }
   ]
