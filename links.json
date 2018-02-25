@@ -3,7 +3,7 @@
     {
       "Name": "Twitter",
       "Link": "https://twitter.com/nordicfuzzcon",
-      "Position": 1,
+      "Position": 2,
       "Category": "General",
       "Group": "Other links",
       "Type": "Twitter"
@@ -59,7 +59,7 @@
     {
       "Name": "NordicFuzzCon Live (Twitter)",
       "Link": "https://twitter.com/livefuzz",
-      "Position": 2,
+      "Position": 1,
       "Category": "At convention",
       "Group": "Other links",
       "Type": "Twitter"
