@@ -55,6 +55,22 @@
       "Category": "At convention",
       "Group": "Telegram links",
       "Type": "Telegram"
+    },
+    {
+      "Name": "NordicFuzzCon Live (Twitter)",
+      "Link": "https://twitter.com/livefuzz",
+      "Position": 2,
+      "Category": "At convention",
+      "Group": "Information",
+      "Type": "Twitter"
+    },
+    {
+      "Name": "Second Hotel Chat (Scandic Upplands Väsby)",
+      "Link": "https://t.me/joinchat/B8vZMQ3wjVp-jAZC6QDkUg",
+      "Position": 5,
+      "Category": "General",
+      "Group": "Social",
+      "Type": "Telegram"
     }
   ]
 }
