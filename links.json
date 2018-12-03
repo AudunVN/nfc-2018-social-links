@@ -3,7 +3,7 @@
     {
       "Name": "Twitter",
       "Link": "https://twitter.com/nordicfuzzcon",
-      "Position": 2,
+      "Position": 20,
       "Category": "General",
       "Group": "Other links",
       "Type": "Twitter"
@@ -11,23 +11,39 @@
     {
       "Name": "Facebook",
       "Link": "https://www.facebook.com/NordicFuzzCon",
-      "Position": 3,
+      "Position": 30,
       "Category": "General",
       "Group": "Other links",
       "Type": "Facebook"
     },
     {
+      "Name": "Mausie",
+      "Link": "https://twitter.com/nfc_mausie",
+      "Position": 33,
+      "Category": "General",
+      "Group": "Other links",
+      "Type": "Twitter"
+    },
+    {
+      "Name": "Dealers' Den",
+      "Link": "https://twitter.com/NFCDealersDen",
+      "Position": 37,
+      "Category": "General",
+      "Group": "Other links",
+      "Type": "Twitter"
+    },
+    {
       "Name": "Telegram Channel List",
       "Link": "https://forum.nordicfuzzcon.org/posts/t2094-NordicFuzzCon-Telegram-groups",
-      "Position": 4,
+      "Position": 40,
       "Category": "General",
       "Group": "Telegram links",
       "Type": "Forums"
     },
     {
-      "Name": "Telegram Announcements",
+      "Name": "Telegram",
       "Link": "https://telegram.me/NordicFuzzCon",
-      "Position": 5,
+      "Position": 15,
       "Category": "General",
       "Group": "Telegram links",
       "Type": "Telegram"
@@ -35,7 +51,7 @@
     {
       "Name": "FurAffinity",
       "Link": "https://www.furaffinity.net/user/nordicfuzzcon",
-      "Position": 6,
+      "Position": 60,
       "Category": "General",
       "Group": "Web links",
       "Type": "FurAffinity"
@@ -43,7 +59,7 @@
     {
       "Name": "YouTube",
       "Link": "https://www.youtube.com/channel/UCTBZFgM6OMi5cCoug8dkh7A",
-      "Position": 7,
+      "Position": 70,
       "Category": "General",
       "Group": "Web links",
       "Type": "YouTube"
@@ -59,7 +75,7 @@
     {
       "Name": "NordicFuzzCon Live (Twitter)",
       "Link": "https://twitter.com/livefuzz",
-      "Position": 1,
+      "Position": 10,
       "Category": "At convention",
       "Group": "Other links",
       "Type": "Twitter"
@@ -67,7 +83,7 @@
     {
       "Name": "Second Hotel Chat (Scandic Upplands Väsby)",
       "Link": "https://t.me/joinchat/B8vZMQ3wjVp-jAZC6QDkUg",
-      "Position": 5,
+      "Position": 50,
       "Category": "General",
       "Group": "Telegram links",
       "Type": "Telegram"
