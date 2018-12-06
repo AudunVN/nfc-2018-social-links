@@ -33,6 +33,14 @@
       "Type": "Twitter"
     },
     {
+      "Name": "Forums",
+      "Link": "https://forum.nordicfuzzcon.org/",
+      "Position": 38,
+      "Category": "General",
+      "Group": "Other links",
+      "Type": "Forums"
+    },
+    {
       "Name": "Telegram Channel List",
       "Link": "https://forum.nordicfuzzcon.org/posts/t2094-NordicFuzzCon-Telegram-groups",
       "Position": 40,
