@@ -73,6 +73,14 @@
       "Type": "YouTube"
     },
     {
+      "Name": "Steam Group",
+      "Link": "https://steamcommunity.com/groups/nordicfuzzcon",
+      "Position": 80,
+      "Category": "General",
+      "Group": "Web links",
+      "Type": "Other links"
+    },
+    {
       "Name": "Telegram Live",
       "Link": "https://t.me/nordicfuzzconlive",
       "Position": 0,
