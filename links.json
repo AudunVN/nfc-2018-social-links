@@ -25,6 +25,14 @@
       "Type": "Twitter"
     },
     {
+      "Name": "Iris",
+      "Link": "https://twitter.com/nfc_iris",
+      "Position": 35,
+      "Category": "General",
+      "Group": "Other links",
+      "Type": "Twitter"
+    },
+    {
       "Name": "Dealers' Den",
       "Link": "https://twitter.com/NFCDealersDen",
       "Position": 37,
@@ -78,7 +86,7 @@
       "Position": 80,
       "Category": "General",
       "Group": "Web links",
-      "Type": "Other links"
+      "Type": "Steam"
     },
     {
       "Name": "Telegram Live",
@@ -95,14 +103,6 @@
       "Category": "At convention",
       "Group": "Other links",
       "Type": "Twitter"
-    },
-    {
-      "Name": "Second Hotel Chat (Scandic Upplands Väsby)",
-      "Link": "https://t.me/joinchat/BMbEwkQZitL89vqZlqI4sg",
-      "Position": 50,
-      "Category": "General",
-      "Group": "Telegram links",
-      "Type": "Telegram"
     }
   ]
 }
