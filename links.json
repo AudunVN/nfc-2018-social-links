@@ -1,7 +1,7 @@
 {
   "Links": [
     {
-      "Name": "Twitter",
+      "Name": "Official Twitter",
       "Link": "https://twitter.com/nordicfuzzcon",
       "Position": 20,
       "Category": "General",
@@ -11,13 +11,13 @@
     {
       "Name": "Facebook",
       "Link": "https://www.facebook.com/NordicFuzzCon",
-      "Position": 30,
+      "Position": 40,
       "Category": "General",
       "Group": "Other links",
       "Type": "Facebook"
     },
     {
-      "Name": "Mausie",
+      "Name": "Mausie on Twitter",
       "Link": "https://twitter.com/nfc_mausie",
       "Position": 33,
       "Category": "General",
@@ -25,17 +25,9 @@
       "Type": "Twitter"
     },
     {
-      "Name": "Iris",
+      "Name": "Iris on Twitter",
       "Link": "https://twitter.com/nfc_iris",
       "Position": 35,
-      "Category": "General",
-      "Group": "Other links",
-      "Type": "Twitter"
-    },
-    {
-      "Name": "Dealers' Den",
-      "Link": "https://twitter.com/NFCDealersDen",
-      "Position": 37,
       "Category": "General",
       "Group": "Other links",
       "Type": "Twitter"
@@ -49,20 +41,28 @@
       "Type": "Forums"
     },
     {
-      "Name": "Telegram Channel List",
-      "Link": "https://forum.nordicfuzzcon.org/posts/t2094-NordicFuzzCon-Telegram-groups",
-      "Position": 40,
-      "Category": "General",
-      "Group": "Telegram links",
-      "Type": "Forums"
-    },
-    {
-      "Name": "Telegram",
+      "Name": "NordicFuzzCon Announcements",
       "Link": "https://telegram.me/NordicFuzzCon",
       "Position": 15,
       "Category": "General",
       "Group": "Telegram links",
       "Type": "Telegram"
+    },
+    {
+      "Name": "Unofficial NordicFuzzCon chat",
+      "Link": "https://t.me/joinchat/Bzp1oD0lubjN_Hd04WRe1w",
+      "Position": 17,
+      "Category": "General",
+      "Group": "Telegram links",
+      "Type": "Telegram"
+    },
+    {
+      "Name": "Telegram Channel List",
+      "Link": "https://forum.nordicfuzzcon.org/posts/t2094-NordicFuzzCon-Telegram-groups",
+      "Position": 19,
+      "Category": "General",
+      "Group": "Telegram links",
+      "Type": "Forums"
     },
     {
       "Name": "FurAffinity",
@@ -79,6 +79,14 @@
       "Category": "General",
       "Group": "Web links",
       "Type": "YouTube"
+    },
+    {
+      "Name": "Discord Server",
+      "Link": "https://discord.gg/SFBcuZz",
+      "Position": 75,
+      "Category": "General",
+      "Group": "Web links",
+      "Type": "Other"
     },
     {
       "Name": "Steam Group",
