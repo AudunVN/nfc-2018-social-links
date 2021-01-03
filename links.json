@@ -33,14 +33,6 @@
       "Type": "Twitter"
     },
     {
-      "Name": "Forum",
-      "Link": "https://forum.nordicfuzzcon.org/",
-      "Position": 38,
-      "Category": "General",
-      "Group": "Other links",
-      "Type": "Forums"
-    },
-    {
       "Name": "NordicFuzzCon Announcements",
       "Link": "https://telegram.me/NordicFuzzCon",
       "Position": 15,
